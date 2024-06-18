@@ -1,0 +1,8 @@
+Credit Risk Calculation Analysis 
+This analysis was conducted to create a data model to predict creditworthiness for potential borrowers on behalf of a peer-to-peer lending company. Once created, the accuracy of the model was evaluated as well.  
+
+*Balanced Accuracy Score: 95.20% (When considering sensitivity and specificity, the model had a balanced prediction accuracy of 95.20%
+*Precision Score: 92% (The predicted positives were correct 92% of the time)
+*Recall Score: 95% (The model was 95% precise when measuring true positive values)
+
+I would strongly recommend using this model to predict borrower creditworthiness because of its high accuracy score. This high accuracy score means that the model accuracty predicted if the borrower would pay back the loan or default, which is valuable information for a lending company. The company could use this model to help make better lending decisions to improve business operations overall. 
